@@ -1,0 +1,15 @@
+.tab-item {
+  padding: 12px;
+  font-size: 24px;
+  background: transparent;
+  border-style: none;
+  color: #ffffff;
+  cursor: pointer;
+}
+.active-tab {
+  color: #fec653;
+  border-bottom: 2px solid #fec653;
+}
+.li-container {
+  margin: 15px;
+}

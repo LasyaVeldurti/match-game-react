@@ -1,0 +1,12 @@
+.thumbnail-img {
+  width: 180px;
+  height: 150px;
+}
+.thumbnail-li-item {
+  margin: 10px;
+}
+.thumbnail-btn {
+  background: transparent;
+  border-style: none;
+  cursor: pointer;
+}
